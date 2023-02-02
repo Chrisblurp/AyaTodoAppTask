@@ -1,1 +1,1 @@
-# AyaTodoAppTask
+this is a small project to strenghten the knowledge of express js, creating restful api's and consuming the api from the front end, there are still a lot of functionalities to be implemented, but for now users can register, login, update task, delete and create new task 
